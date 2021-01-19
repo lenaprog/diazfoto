@@ -1,0 +1,25 @@
+.description {
+    font-weight: bold;
+    font-size: 48px;
+    border: 1px;
+}
+
+.image {
+background-image: url(https://media.timeout.com/images/105424953/750/422/image.jpg);
+background-size: cover;
+background-position: center;
+height: 50px;
+width: 50px;
+}
+
+.caption {
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+    background-color: antiquewhite;
+    position: relative;
+    top: 80%;
+    
+
+
+}
