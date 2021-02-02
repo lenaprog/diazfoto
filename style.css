@@ -1,0 +1,62 @@
+.jumbotron {
+    background-image: url(images/saulen1200px.jpeg);
+    background-size: cover;
+    height: 500px
+    
+
+}
+h1 {
+    font-family: 'Actor', sans-serif;
+    font-size: 70px;
+    color: #88311d;
+    padding-top: 100px;
+    
+}
+.jumbotron p {
+    font-family: 'Actor', sans-serif;
+    font-size: 30px;
+    color: #88311d;
+    
+    
+    
+}
+.navbar-nav {
+    font-family: 'Actor', sans-serif; 
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Actor', sans-serif;
+    padding-bottom: 10px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.Zitat {
+    font-size: 10px;
+    font-style: italic;
+}
+#about {
+    text-align: center;
+}
+.navbar.navbar-expand-sm.bg-transparent.navbar-light.fixed-top li a {
+    color: #88311d;
+}
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+h3 {
+    font-size: 40px;
+    color: #88311d;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    
+
+
+font-family: 'Actor', sans-serif;
+font-family: 'Raleway', sans-serif;
