@@ -1,25 +1,22 @@
-.jumbotron {
-    background-image: url(images/saulen1200px.jpeg);
-    background-size: cover;
-    height: 500px
+
     
 
+body {
+    background-image: url(images/IMG_9317.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
+
+
 h1 {
     font-family: 'Actor', sans-serif;
     font-size: 70px;
     color: #88311d;
-    padding-top: 100px;
-    
+    padding-top: 100px;  
 }
-.jumbotron p {
-    font-family: 'Actor', sans-serif;
-    font-size: 30px;
-    color: #88311d;
-    
-    
-    
-}
+
 .navbar-nav {
     font-family: 'Actor', sans-serif; 
 }
@@ -28,34 +25,55 @@ h2 {
     font-size: 40px;
     font-family: 'Actor', sans-serif;
     padding-bottom: 10px;
+    text-align: center;
+    color: #88311d;
 }
 p {
     font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
 
 .Zitat {
-    font-size: 10px;
+    font-size: 15px;
     font-style: italic;
 }
 #about {
     text-align: center;
 }
-.navbar.navbar-expand-sm.bg-transparent.navbar-light.fixed-top li a {
+.navbar.navbar-expand-md.bg-transparent.navbar-light.fixed-top li a {
     color: #88311d;
 }
 li {
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 30px;
+    font-size: 20px;
 }
-h3 {
-    font-size: 40px;
+.mynav a:hover {
+    border-bottom: 2px solid;
     color: #88311d;
 }
+.active a {
+    border-bottom: 2px solid;
+}
+
+h3 {
+    font-size: 60px;
+    color: #88311d;
+    text-align: center;
+    padding-bottom: 200px;
+}
 .carousel-inner img {
-    width: 100%;
-    height: 100%;
-    
+    width: 50%;
+    height: 50%;
+}
+#impressum {
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+.footer {
+    margin-top: 10px;
+    background-color: green;
+}
 
 
 font-family: 'Actor', sans-serif;
